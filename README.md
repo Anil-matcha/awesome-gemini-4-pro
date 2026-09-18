@@ -18,11 +18,14 @@ This is an independent, evidence-led collection of practical workflows for **Gem
 
 The goal is to make the discussion useful without turning a rumor into an API tutorial. Every case states what is known, what is inferred, how to reproduce the workflow with an available Gemini model, and what evidence would be needed to upgrade the claim.
 
-## Related projects
+## Related Projects
 
 - [awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) — companion use cases, prompts, evaluations, and safety notes for GPT-6 Astra.
+- [awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5) — predecessor Claude frontier-model use-case archive.
 - [awesome-claude-fable-5-1](https://github.com/Anil-matcha/awesome-claude-fable-5-1) — companion launch-evidence and use-case collection for Claude Fable 5.1.
 - [Awesome-Gemini-Omni-API-Prompts](https://github.com/Anil-matcha/Awesome-Gemini-Omni-API-Prompts) — prompts and API examples for Gemini Omni media workflows.
+- [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) — broader video-model comparison for the multimodal and 3D workflows tracked here.
+- [awesome-ai-image-models](https://github.com/Anil-matcha/awesome-ai-image-models) — image-model comparison for visual-generation and editing workflows.
 - [awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) — production-ready AI SaaS templates for turning model workflows into applications.
 - [Gemini API documentation](https://ai.google.dev/gemini-api/docs) — Google’s official developer documentation.
 

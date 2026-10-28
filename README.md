@@ -21,6 +21,7 @@ The goal is to make the discussion useful without turning a rumor into an API tu
 ## Related Projects
 
 - [awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) — companion use cases, prompts, evaluations, and safety notes for GPT-6 Astra.
+- [awesome-gemini-4-carbon](https://github.com/Anil-matcha/awesome-gemini-4-carbon) — Source-linked tracker for Google's Gemini 4 Carbon: cyber and coding benchmarks, pricing, restricted-access status.
 - [awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5) — predecessor Claude frontier-model use-case archive.
 - [awesome-claude-fable-5-1](https://github.com/Anil-matcha/awesome-claude-fable-5-1) — companion launch-evidence and use-case collection for Claude Fable 5.1.
 - [Awesome-Gemini-Omni-API-Prompts](https://github.com/Anil-matcha/Awesome-Gemini-Omni-API-Prompts) — prompts and API examples for Gemini Omni media workflows.
